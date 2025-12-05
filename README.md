@@ -20,12 +20,11 @@ OfficeClimate solves this by providing structured, actionable data that allows F
 
 ## 2. Setup & Deployment Instructions
 
-How to clone the project: git clone https://github.com/your-username/officeclimate.git
+```bash
+git clone https://github.com/your-username/officeclimate.git
 cd officeclimate
-
-How to install dependencies: npm install
-
-How to run the app locally: npm run dev
+npm install
+npm run dev
 
 ---
 
