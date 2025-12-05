@@ -1,6 +1,6 @@
 ## 1. Project Overview
 
-The application is a web app that allows employees to report how the temperature feels at their workspace (“Too Cold”, “Comfortable”, or “Too Warm”). The app aggregates this feedback and displays it on a heatmap-style dashboard so Facilities Management (FM) can quickly identify problem areas across the office.
+OfficeClimate is a web app that allows employees to report how the temperature feels at their workspace (“Too Cold”, “Comfortable”, or “Too Warm”). The app aggregates this feedback and displays it on a heatmap-style dashboard so Facilities Management (FM) can quickly identify problem areas across the office.
 
 ### Target Users
 - **Office Workers** – submit comfort reports quickly and receive suggestions for more suitable seating areas.  
