@@ -17,14 +17,18 @@ The office experiences inconsistent temperatures across floors and zones, but FM
 
 ## 2. Setup & Deployment Instructions
 
-Explain:
-
 How to clone the project: git clone https://github.com/your-username/officeclimate.git
 cd officeclimate
 
+---
+
 How to install dependencies: npm install
 
+---
+
 How to run the app locally: npm run dev
+
+---
 
 ## 3. Dependencies & SDKs
 
