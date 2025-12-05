@@ -13,24 +13,32 @@ The application is for:
 
 The office experiences inconsistent temperatures across floors and zones, but FM receives complaints informally and without structure. This leads to repeated issues, slow response times, and inefficient use of workspace. The application provides real, usable data so FM can act proactively and staff can work more comfortably.
 
-## Overview
+---
 
-This template equips you with a foundational React application integrated with AWS Amplify, streamlined for scalability and performance. It is ideal for developers looking to jumpstart their project with pre-configured AWS services like Cognito, AppSync, and DynamoDB.
+## 2. Setup & Deployment Instructions
 
-## Features
+Explain:
 
-- **Authentication**: Setup with Amazon Cognito for secure user authentication.
-- **API**: Ready-to-use GraphQL endpoint with AWS AppSync.
-- **Database**: Real-time database powered by Amazon DynamoDB.
+How to clone the project: git clone https://github.com/your-username/officeclimate.git
+cd officeclimate
 
-## Deploying to AWS
+How to install dependencies: npm install
 
-For detailed instructions on deploying your application, refer to the [deployment section](https://docs.amplify.aws/react/start/quickstart/#deploy-a-fullstack-app-to-aws) of our documentation.
+How to run the app locally: npm run dev
 
-## Security
+## 3. Dependencies & SDKs
 
-See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more information.
+List:
 
-## License
+Main frameworks (React, Vite, etc.)
+AWS Amplify services
+APIs or third-party SDKs
 
-This library is licensed under the MIT-0 License. See the LICENSE file.
+## 4. Known Issues & Future Improvements
+Document:
+
+Any bugs
+Missing features
+Planned enhancements
+This shows professional reflection, not weakness.
+
