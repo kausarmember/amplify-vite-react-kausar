@@ -20,7 +20,6 @@ OfficeClimate solves this by providing structured, actionable data that allows F
 
 ## 2. Setup & Deployment Instructions
 
-```bash
 git clone https://github.com/your-username/officeclimate.git
 cd officeclimate
 npm install
