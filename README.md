@@ -22,7 +22,9 @@ OfficeClimate solves this by providing structured, actionable data that allows F
 
 git clone https://github.com/your-username/officeclimate.git
 cd officeclimate
+
 npm install
+
 npm run dev
 
 ---
